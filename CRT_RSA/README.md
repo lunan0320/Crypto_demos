@@ -1,0 +1,1 @@
+This method uses CRT Chinese residual theorem to accelerate RSA
